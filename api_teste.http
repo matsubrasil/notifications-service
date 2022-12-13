@@ -1,0 +1,6 @@
+###
+GET http://localhost:3000/notifications
+
+
+###
+POST http://localhost:3000/notifications
